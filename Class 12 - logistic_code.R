@@ -22,7 +22,7 @@ library(dplyr)
 cat("\014") # Clearing the screen
 
 # Setting the working directory
-setwd("C:/mica/data")
+setwd("C:\Users\Amaresh-PC\Documents\Amma 2017\Data")
 getwd()
 
 # reading client datasets
